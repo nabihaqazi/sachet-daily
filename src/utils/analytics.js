@@ -18,7 +18,7 @@
  *   • Waitlist signups  → 'waitlist_signup'   (conversion)
  */
 
-const MEASUREMENT_ID = 'G-ECF6CZCL8M' // ← replace this
+const MEASUREMENT_ID = 'G-BF73BJEEPV' // ← replace this
 
 /** Safe wrapper — silently skips if gtag hasn't loaded yet */
 function gtag(...args) {
